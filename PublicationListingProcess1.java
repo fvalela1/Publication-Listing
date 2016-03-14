@@ -1,9 +1,3 @@
-// ------------------------------------------------------------------------------- 
-// Assignment 2
-// Questions: Part 1
-// Written by: Francesco Valela 26669883
-// For COMP249 Section: S
-// ------------------------------------------------------------------------------
 // Takes .txt file and copy's to an Array. Detects any duplicates in publication codes and prompts users to fix them, making sure that they do not input a code that already exists. 
 // Creates a new array and .txt file with updated, duplicate-free publication listings.
 
