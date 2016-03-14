@@ -1,9 +1,3 @@
-// ------------------------------------------------------------------------------- 
-// Assignment 2
-// Questions: Part 1 & 2
-// Written by: Francesco Valela 26669883
-// For COMP249 Section: S
-// ------------------------------------------------------------------------------
 // A class that allows the other classes to create Publication objects
 
 import java.io.Serializable;
